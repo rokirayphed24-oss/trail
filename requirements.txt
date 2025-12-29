@@ -1,7 +1,14 @@
-streamlit==1.29.0
-plotly==5.18.0
+streamlit
 pandas
 numpy
+sqlalchemy
+opencv-python-headless
+pytesseract
+Pillow
+matplotlib
+plotly
+altair
+streamlit-plotly-events
 
 
 
