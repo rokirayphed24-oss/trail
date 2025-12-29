@@ -1,11 +1,7 @@
-streamlit
+streamlit==1.29.0
+plotly==5.18.0
 pandas
 numpy
-matplotlib
-sqlalchemy
-streamlit
-plotly
-pandas
-numpy
+
 
 
